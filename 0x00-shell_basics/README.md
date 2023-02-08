@@ -3,3 +3,4 @@ a script that prints the absolute path name of the current working directory
 added a script that changes the working directory to the user’s home directory
 added a script that displays current directory contents in a long format
 created a file that displays current directory contents, including hidden files
+created file for 6th task
