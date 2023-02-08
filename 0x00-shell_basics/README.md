@@ -5,3 +5,4 @@ added a script that displays current directory contents in a long format
 created a file that displays current directory contents, including hidden files
 created file for 6th task
 created file for 7th task
+created file for 8th task
