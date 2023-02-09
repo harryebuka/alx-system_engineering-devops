@@ -6,3 +6,4 @@
 5-created  a script that adds execute permission to the owner of the file hello
 6- a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello
 7-created a script that adds execution permission to the owner, the group owner and the other users, to the file hello
+8-created james bond file
