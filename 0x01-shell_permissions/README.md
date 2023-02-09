@@ -10,3 +10,4 @@
 9-created john doe file for task 9
 10-created  a script that sets the mode of the file hello the same as olleh’s mode
 11-created a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
+12-created a script that creates a directory with permissions 751 in the working directory
