@@ -13,3 +13,4 @@
 12-created a script that creates a directory with permissions 751 in the working directory
 13-created a script that changes the group owner to school for the file hello
 14-created a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory
+15-created a script that changes the owner and the group owner of _ hello to vincent and staff respectively.
