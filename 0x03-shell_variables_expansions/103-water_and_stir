@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $(($(echo $WATER)+$(echo $STIR))) | tr -d '\n' | xxd -r -p | openssl enc -base64 | tr -d '\n'
