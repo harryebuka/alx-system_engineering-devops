@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($(echo $WATER)+$(echo $STIR))) | tr -d '\n' | xxd -r -p | openssl enc -base64 | tr -d '\n'
+echo $(echo "ibase=water" $WATER | bc)$(echo "ibase=stir" $STIR | bc) | tr "0123456789ABCDEF" "BESTCHOL"
